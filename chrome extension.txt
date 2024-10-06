@@ -1,0 +1,4 @@
+3 types of js context for chrome extension
+1. popup context (for the context of chrome ext popup itself)
+2. service worker context (for the context of something running background seprate from both)
+3. page context (get the context of website on which its running)
